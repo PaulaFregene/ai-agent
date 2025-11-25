@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "agents-starter",
-	"main": "agents-starter/src/server.ts",
+	"main": "src/server.ts",
 	"compatibility_date": "2025-08-03",
 	"compatibility_flags": [
 		"nodejs_compat"
